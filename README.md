@@ -1,3 +1,3 @@
 # hello-world
-first commit
+First commit.
 Something new.
