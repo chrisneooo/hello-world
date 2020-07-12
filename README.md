@@ -1,3 +1,3 @@
 # hello-world
-Most powerful program!!!
+first commit
 Something new.
